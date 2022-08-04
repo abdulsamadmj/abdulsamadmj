@@ -10,7 +10,7 @@
     I am a 3rd Year undergraduate from <b>Wmo Arts and Science College</b>, Wayanad, Kerala. 
   </em> -->
   <img
-    src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Hope+for+the+best,+prepare+for+the+worst&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22"
+    src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Hope+for+the+best,+prepare+for+the+worst&font=Fira%20Code&center=true&width=700&height=45&vCenter=true&size=22"
     alt="MERN Stack Developer">
 </p>
 
@@ -39,7 +39,7 @@
   <a target="_blank" href="https://www.buymeacoffee.com/abdulsamadmj"><img width="32px" alt="buymeacoffee"
       title="buymeacoffee" src="https://spiritedisle.ie/resources/uploads/2021/09/download1.png" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="hhttps://github.com/abdulsamadmj"><img width="32px" alt="github" title="github"
+  <a   href="hhttps://github.com/abdulsamadmj"><img width="32px" alt="github" title="github"
       src="https://img.icons8.com/color/48/000000/github--v1.png" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a target="_blank" href="https://gitlab.com/abdulsamadmj"><img width="32px" alt="gitlab" title="gitlab"
