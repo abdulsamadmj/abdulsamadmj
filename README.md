@@ -10,7 +10,7 @@
     I am a 3rd Year undergraduate from <b>Wmo Arts and Science College</b>, Wayanad, Kerala. 
   </em> -->
   <img
-    src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Hope+for+the+best,+prepare+for+the+worst&font=Fira%20Code&center=true&width=700&height=45&vCenter=true&size=22"
+    src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Co-founder+DJX&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22"
     alt="MERN Stack Developer">
 </p>
 
