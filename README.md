@@ -60,7 +60,7 @@
 <br>
 
 <a href=""><img alt="Samad's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=abdulsamadmj&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abdulsamadmj&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a
   href=""><img alt="Samad's Top Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsamadmj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
