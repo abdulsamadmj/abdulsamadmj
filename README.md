@@ -71,6 +71,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" />&nbsp;<img
     src="https://img.icons8.com/color/48/000000/javascript.png" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <!-- &nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> -->
   &nbsp;<img src="https://img.icons8.com/color/48/000000/react-native.png" />
   <!-- &nbsp;<img src="https://img.icons8.com/color/48/000000/php.png"/> -->
@@ -97,10 +98,6 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" />&nbsp;<img
     src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
   <!-- &nbsp;<img src="https://img.icons8.com/color/48/000000/maria-db.png"/> -->
-</p>
-
-<p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=abdulsamadmj&theme=react-dark">
 </p>
 
 <!-- 
