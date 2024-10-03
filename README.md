@@ -18,13 +18,13 @@
   <a target="_blank" href="https://t.me/abdul_samad_m_j"><img width="32px" alt="Telegram" title="Telegram"
       src="https://cdn-icons-png.flaticon.com/512/906/906377.png" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a target="_blank" href="https://www.instagram.com/__mr__random_/"><img width="32px" alt="Instagram" title="Instagram"
+  <a target="_blank" href="https://www.instagram.com/abdul_samad_mj/"><img width="32px" alt="Instagram" title="Instagram"
       src="https://cdn-icons-png.flaticon.com/512/174/174855.png" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a target="_blank" href="https://wa.me/+917012559910"><img width="32px" alt="Whatsapp" title="Whatsapp"
       src="https://cdn-icons-png.flaticon.com/512/220/220236.png" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a target="_blank" href="https://discord.com/users/MrRandom#8827"><img width="32px" alt="Discord" title="Discord"
+  <a target="_blank" href="https://discord.com/users/mrrandom14"><img width="32px" alt="Discord" title="Discord"
       src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a target="_blank" href="https://www.linkedin.com/in/abdul-samad-m-j-9b8ba1187/"><img width="32px" alt="Linkedin"
